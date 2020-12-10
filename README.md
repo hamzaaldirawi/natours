@@ -6,7 +6,7 @@ I'll use:
  - SASS
  - JS For Webp support 
  
- 1st step 10/12/2020
+ # 1st step 10/12/2020
   - Compress img and add webp format
   - Compress video and add webm format
   - Add first tags in HTML includes: 
