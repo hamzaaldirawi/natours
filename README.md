@@ -18,7 +18,12 @@ I'll use:
   - Write root color for style.css
   - Write Modernzier for webp support in script.js 
 
-  # 2nd step 11/12/2020
+ # 2nd step 11/12/2020
   - Write Header HTML tags.
   - Clip path the background.
   - Animate Heading and button with CSS only.
+
+ # 3rd step 11/12/2020
+  - Install Node Sass Package.
+  - Ignore Node_module, and package from being uploaded to git hub in .gitignore. 
+  - Add nodemon to watch sass while saving.
