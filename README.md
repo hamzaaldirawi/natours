@@ -27,3 +27,7 @@ I'll use:
   - Install Node Sass Package.
   - Ignore Node_module, and package from being uploaded to git hub in .gitignore. 
   - Add nodemon to watch sass while saving.
+
+ # 4th step 13/12/2020
+  - Create required sass folders and files
+  
