@@ -30,4 +30,15 @@ I'll use:
 
  # 4th step 13/12/2020
   - Create required sass folders and files
+  - Convert Previuos CSS to SASS code.
+  - Build About section.
+  - Build Features section.
+
+ # 5th step 14/12/2020
+  - Build Tours section.
+  - Build Stories section.
+  - Build Booking section.
+  - Build Footer section.
+  - Build Navigation section.
+  - Build Popup with pure css.
   
