@@ -41,4 +41,8 @@ I'll use:
   - Build Footer section.
   - Build Navigation section.
   - Build Popup with pure css.
-  
+
+ # 5th step 14/12/2020
+  - Compile Sass to css.
+  - Add Autoprefix.
+  - Auto Minify. 
