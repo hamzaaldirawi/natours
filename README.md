@@ -46,3 +46,4 @@ I'll use:
   - Compile Sass to css.
   - Add Autoprefix.
   - Auto Minify. 
+  - Remove package.json from .gitignore to show what I did in package.json.
