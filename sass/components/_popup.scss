@@ -63,6 +63,10 @@
         -ms-hyphens: auto;
         -webkit-hyphens: auto;
         hyphens: auto;
+
+        @include respond(phone) {
+            font-size: 7px;
+            column-count: 1;
     }
 
     //Open states
