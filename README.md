@@ -6,6 +6,8 @@ I'll use:
  - SASS
  - JS For Webp support 
  
+ visit : https://hamzaaldirawi.github.io/natours/
+ 
  # 1st step 10/12/2020
   - Compress img and add webp format
   - Compress video and add webm format
@@ -33,7 +35,7 @@ I'll use:
   - Convert Previuos CSS to SASS code.
   - Build About section.
   - Build Features section.
-
+  
  # 5th step 14/12/2020
   - Build Tours section.
   - Build Stories section.
@@ -42,7 +44,7 @@ I'll use:
   - Build Navigation section.
   - Build Popup with pure css.
 
- # 5th step 14/12/2020
+ # 6th step 15/12/2020
   - Compile Sass to css.
   - Add Autoprefix.
   - Auto Minify. 
